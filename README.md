@@ -6,7 +6,7 @@ This is the repository for JustWatch Challenge, where I performed EDA and Cluste
 ## Content
 - [Challenge Description](#Challenge-description)
 - [Tasks](#Tasks)
-- [In the repository](#In the repository)
+- [In the repository](#In-the-repository)
 - [Links](#links)
 
 ## Challenge Description
